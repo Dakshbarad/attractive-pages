@@ -1,0 +1,33 @@
+{
+  "Menu_Items": [
+    {
+    "item": "pear salad",
+    "price": 11,
+    "ingredients":
+      "Reid’s Orchard Pears / Bitter Greens / Granola / Big Firefly / Farms Black and Blue / Pine Nut Vinaigrette"
+    },
+    {
+    "item": "BRODETTO DI PESCE",
+    "price": 9,
+    "ingredients":
+      "Adriatic Seafood Soup / Clams / Prawns / Livornese / Langoustine Scallop / Celery / Olive"
+    },
+    {
+    "item": "RICOTTA GNUD",
+    "price": 18,
+    "ingredients":
+      "Marinated Sardine / Red Currant / Chanterelles / Pine Nuts / Mantecato Vitello / Fennel / Olive / Pepitas"
+  },{
+    "item": "FARM GREENS",
+    "price": 9,
+    "ingredients":
+      "Honey Vinaigrette / House Cheese Crouton / Fine Herbs"
+  },{
+    "item": "GRILLED KALE",
+    "price": 9,
+    "ingredients":
+      "Bitter Greens / House Cheese Crouton / Kamon Iberico"
+  }
+
+  ]
+}
